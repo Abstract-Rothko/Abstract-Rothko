@@ -1,4 +1,4 @@
-### Aspiring Data Analyst: The Story
+### Data Analyst Origin Story
 
 It was 22:18, on the 19th June 2024 when a strange object landed in my backyard.
 
